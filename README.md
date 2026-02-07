@@ -1,9 +1,11 @@
-<img width="2048" height="1247" alt="image" src="https://github.com/user-attachments/assets/285b2d49-ac61-4833-ab68-26071b721654" /># ukci-selpha
-UK Carbon Intensity Analytics
+# ukci-selpha
+## UK Carbon Intensity Analytics
 
 https://ukci.selpha.com/
 
-UK Grid Command - National Grid Carbon Intelligence - Provides Real-Time Analytics on the UK's Energy National Grid - by Selphaware
+## UK Grid Command - National Grid Carbon Intelligence - Provides Real-Time Analytics on the UK's Energy National Grid - by Selphaware
+
+<img width="2048" height="1247" alt="image" src="https://github.com/user-attachments/assets/285b2d49-ac61-4833-ab68-26071b721654" />
 
 <img width="2048" height="1247" alt="image" src="https://github.com/user-attachments/assets/40191c0e-9b9c-4ccf-928f-60bcb5453aff" />
 
