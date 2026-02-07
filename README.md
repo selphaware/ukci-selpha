@@ -1,4 +1,4 @@
-# UK Grid Command ⚡🌍  
+# UK (Energy) Grid Command ⚡🌍  
 **National Grid Carbon Intelligence Dashboard**
 
 https://ukci.selpha.com/
