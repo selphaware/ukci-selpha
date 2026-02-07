@@ -5,6 +5,8 @@ https://ukci.selpha.com/
 
 UK Grid Command is a real-time, data-driven dashboard for understanding the **carbon intensity of Great Britain’s electricity grid**—how “clean” or “dirty” the power is right now, how it has changed over the last 24 hours, and where it’s heading next.
 
+Data Source: National Energy System Operator (NESO), Environmental Defence Fund Europe, Univ. Oxford, WWF - https://carbonintensity.org.uk/
+
 It brings together **live grid carbon intensity (gCO₂/kWh)**, **generation mix breakdowns**, **regional rankings**, and **short-term forecasts** in a single, easy-to-scan interface.
 
 ---
